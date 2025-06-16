@@ -17,8 +17,7 @@ minify:
 params:
   defaultTheme: dark
   disableThemeToggle: true
-  title: Byron's Blog
-  description: "Let's go down the rabbit hole"
+  title: Byron Blogs
   keywords: [Blog, PaperMod]
   author: Byron
 
@@ -35,6 +34,8 @@ params:
       url: "https://github.com/byronjayjee"
 
   ShowReadingTime: true
+  ShowShareButtons: true
+  ShareButtons: ["linkedin","twitter","facebook","reddit"]
 
 services:
   googleAnalytics:
