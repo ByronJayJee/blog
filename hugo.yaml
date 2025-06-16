@@ -24,7 +24,7 @@ params:
 
   homeInfoParams:
     Title: Hey There \*\*waves\*\*
-    Content: Funny running into you here
+    Content: Funny running into you here...check out some blog posts below
 
   socialIcons: # optional
     - name: "instagram"
