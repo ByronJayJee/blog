@@ -3,6 +3,8 @@ languageCode: en-us
 title: Byron's thoughts about stuff
 theme: PaperMod
 
+publishDir: docs
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: true
