@@ -36,6 +36,6 @@ params:
 
   ShowReadingTime: true
 
-  analytics:
-    google:
-      SiteVerificationTag: "G-7MLXGSG39J"
+services:
+  googleAnalytics:
+    id: "G-7MLXGSG39J"
