@@ -6,8 +6,23 @@
     <description>Recent content in Posts on Byron&#39;s thoughts about stuff</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 19:12:31 -0400</lastBuildDate>
     <atom:link href="https://byrongaskin.com/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Saying Thank You to LLMs</title>
+      <link>https://byrongaskin.com/blog/posts/llm-thank-you-energy/</link>
+      <pubDate>Mon, 16 Jun 2025 19:12:31 -0400</pubDate>
+      <guid>https://byrongaskin.com/blog/posts/llm-thank-you-energy/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;There is a great &lt;a href=&#34;https://huggingface.co/blog/jdelavande/thank-you-energy&#34;&gt;blog post&lt;/a&gt; from Hugging Face (HF) on the energy use of saying thank you to LLMs.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;background-sam-altmans-tweet&#34;&gt;Background: Sam Altman&amp;rsquo;s Tweet&lt;/h2&gt;
+&lt;p&gt;This whole discussion around being polite to LLMs started as a meme across social media that was eventually mentioned by Sam Altman in a tweet. He mentioned how much money OpenAI had spent but didn&amp;rsquo;t give any energy consumption numbers.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;tweet by Sam Altman&#34; loading=&#34;lazy&#34; src=&#34;https://byrongaskin.com/blog/posts/llm-thank-you-energy/altman_tweet.png&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;hugging-faces-analysis&#34;&gt;Hugging Face&amp;rsquo;s Analysis&lt;/h2&gt;
+&lt;p&gt;The folks at HF then did their own analysis to estimate the energy usage of saying &lt;code&gt;thank you&lt;/code&gt;. And I think they did a great job with their analysis. They even pointed out that their numbers may be an overestimate since they don&amp;rsquo;t have the benefits of &amp;ldquo;economy of scale&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hello World</title>
       <link>https://byrongaskin.com/blog/posts/hello-world/</link>
